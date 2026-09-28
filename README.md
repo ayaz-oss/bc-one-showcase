@@ -9,12 +9,12 @@ Platform: [apps.bcacad.org](https://apps.bcacad.org)
 > Happy to walk through the code live in an interview or demo.
 
 <p align="center">
-  <img src="screenshots/timetable.png" alt="Teacher's weekly timetable" width="100%"/>
+  <img src="Screenshot%202026-09-28%20140903.png" alt="Teacher's weekly timetable" width="100%"/>
 </p>
 <p align="center">
-  <img src="screenshots/dashboard.png" alt="Teacher's Today dashboard" width="62%"/>
+  <img src="Screenshot%202026-09-28%20140845.png" alt="Teacher's Today dashboard" width="62%"/>
   &nbsp;
-  <img src="screenshots/sign-in.png" alt="Sign-in for staff, students and parents" width="34%"/>
+  <img src="Screenshot%202026-09-28%20140724.png" alt="Sign-in for staff, students and parents" width="34%"/>
 </p>
 <p align="center"><sub>Sandbox with demo data. Weekly timetable · customisable Today dashboard · one sign-in for staff, students and parents.</sub></p>
 
