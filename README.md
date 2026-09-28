@@ -8,15 +8,16 @@ Platform: [apps.bcacad.org](https://apps.bcacad.org)
 > This repo describes what it does, how it's built, and my role in it.
 > Happy to walk through the code live in an interview or demo.
 
-<p align="center">
-  <img src="Screenshot%202026-09-28%20140903.png" alt="Teacher's weekly timetable" width="100%"/>
-</p>
-<p align="center">
-  <img src="Screenshot%202026-09-28%20140845.png" alt="Teacher's Today dashboard" width="62%"/>
-  &nbsp;
-  <img src="Screenshot%202026-09-28%20140724.png" alt="Sign-in for staff, students and parents" width="34%"/>
-</p>
-<p align="center"><sub>Sandbox with demo data. Weekly timetable · customisable Today dashboard · one sign-in for staff, students and parents.</sub></p>
+<img src="Screenshot%202026-09-28%20140903.png" alt="Weekly timetable" width="100%"/>
+<p align="center"><sub><b>Weekly timetable.</b> Every lesson, class and room for the week, imported straight from the school's timetable system.</sub></p>
+
+<img src="Screenshot%202026-09-28%20140845.png" alt="Today dashboard" width="100%"/>
+<p align="center"><sub><b>Today dashboard.</b> A teacher's day at a glance: attendance, lessons left, tasks and messages, with a layout each teacher can customise.</sub></p>
+
+<img src="Screenshot%202026-09-28%20140724.png" alt="Sign-in page" width="100%"/>
+<p align="center"><sub><b>One sign-in.</b> Staff and students use their school Google account; parents use the personal account registered with the school.</sub></p>
+
+<p align="center"><sub>Screenshots from the sandbox, using demo data.</sub></p>
 
 ---
 
